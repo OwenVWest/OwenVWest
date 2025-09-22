@@ -11,4 +11,10 @@ Some hobbies of mine:
 * LUA (As a hobby, not in much depth)
 #### LinkedIn Profile
 [My LinkedIn Profile](https://www.linkedin.com/feed/?trk=onboarding-landing)  
+#### Programs that I use
+* Visual Studio Code
+* CodeWars
+* Unity
+
+
 
